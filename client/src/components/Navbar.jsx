@@ -1,7 +1,7 @@
 import Wrapper from '../assets/wrappers/Navbar'
 import { FaAlignLeft, FaAlignRight, FaAlignJustify } from 'react-icons/fa'
 import Logo from './Logo'
-import LogoutContainer from './LogoutContainer'
+import LogoutContainer from './LogOutContainer'
 import ThemeToggle from './ThemeToggle'
 
 import { useDashboardContext } from '../pages/DashboardLayout'

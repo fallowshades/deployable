@@ -1,0 +1,802 @@
+[
+  {
+    "description": "‫test‫",
+    "status": "activated",
+    "type": "storyline",
+    "dateOfCompletion": "2022-12-05T09:01:35Z",
+    "points": 55,
+    "createdAt": "2023-09-07T20:47:17Z"
+  },
+  {
+    "description": "👩🏽",
+    "status": "activated",
+    "type": "skill-based",
+    "dateOfCompletion": "2023-02-18T17:08:23Z",
+    "points": 65,
+    "createdAt": "2023-05-22T14:53:44Z"
+  },
+  {
+    "description": "\"'\"'\"''''\"",
+    "status": "complete",
+    "type": "collection",
+    "dateOfCompletion": "2023-05-23T01:46:01Z",
+    "points": 45,
+    "createdAt": "2023-09-09T03:58:07Z"
+  },
+  {
+    "description": "部落格",
+    "status": "inactive",
+    "type": "time-based",
+    "dateOfCompletion": "2023-04-05T10:07:52Z",
+    "points": 59,
+    "createdAt": "2022-12-21T14:56:32Z"
+  },
+  {
+    "description": "0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟",
+    "status": "inactive",
+    "type": "collection",
+    "dateOfCompletion": "2023-03-22T22:42:54Z",
+    "points": 11,
+    "createdAt": "2023-06-20T22:09:30Z"
+  },
+  {
+    "description": "١٢٣",
+    "status": "complete",
+    "type": "event",
+    "dateOfCompletion": null,
+    "points": 20,
+    "createdAt": "2022-12-07T20:36:57Z"
+  },
+  {
+    "description": "␡",
+    "status": "complete",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 3,
+    "createdAt": "2023-01-27T02:21:26Z"
+  },
+  {
+    "description": "1E2",
+    "status": "inactive",
+    "type": "social",
+    "dateOfCompletion": null,
+    "points": 92,
+    "createdAt": "2023-09-10T16:21:22Z"
+  },
+  {
+    "description": "和製漢語",
+    "status": "activated",
+    "type": "event",
+    "dateOfCompletion": "2023-06-04T12:51:42Z",
+    "points": 85,
+    "createdAt": "2023-03-02T00:06:09Z"
+  },
+  {
+    "description": "-1E2",
+    "status": "complete",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 15,
+    "createdAt": "2022-12-18T17:45:07Z"
+  },
+  {
+    "description": "() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }",
+    "status": "activated",
+    "type": "progressive",
+    "dateOfCompletion": "2023-01-18T03:44:07Z",
+    "points": 46,
+    "createdAt": "2023-04-13T10:00:52Z"
+  },
+  {
+    "description": "-1E+02",
+    "status": "activated",
+    "type": "storyline",
+    "dateOfCompletion": null,
+    "points": 32,
+    "createdAt": "2022-11-16T15:43:54Z"
+  },
+  {
+    "description": "1;DROP TABLE users",
+    "status": "inactive",
+    "type": "exploration",
+    "dateOfCompletion": null,
+    "points": 86,
+    "createdAt": "2023-05-19T14:45:59Z"
+  },
+  {
+    "description": "👩🏽",
+    "status": "inactive",
+    "type": "event",
+    "dateOfCompletion": null,
+    "points": 55,
+    "createdAt": "2023-03-25T04:22:33Z"
+  },
+  {
+    "description": "0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟",
+    "status": "inactive",
+    "type": "skill-based",
+    "dateOfCompletion": null,
+    "points": 92,
+    "createdAt": "2023-06-22T16:07:19Z"
+  },
+  {
+    "description": "1E2",
+    "status": "inactive",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 77,
+    "createdAt": "2022-12-25T13:18:56Z"
+  },
+  {
+    "description": "␡",
+    "status": "inactive",
+    "type": "collection",
+    "dateOfCompletion": "2023-08-10T16:18:00Z",
+    "points": 44,
+    "createdAt": "2022-10-24T16:47:06Z"
+  },
+  {
+    "description": "<img src=x onerror=alert('hi') />",
+    "status": "activated",
+    "type": "progressive",
+    "dateOfCompletion": null,
+    "points": 46,
+    "createdAt": "2023-05-28T20:57:36Z"
+  },
+  {
+    "description": "1",
+    "status": "activated",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 56,
+    "createdAt": "2023-04-04T18:14:35Z"
+  },
+  {
+    "description": "œ∑´®†¥¨ˆøπ“‘",
+    "status": "complete",
+    "type": "skill-based",
+    "dateOfCompletion": null,
+    "points": 11,
+    "createdAt": "2023-08-27T22:27:50Z"
+  },
+  {
+    "description": "１２３",
+    "status": "activated",
+    "type": "time-based",
+    "dateOfCompletion": null,
+    "points": 73,
+    "createdAt": "2023-05-04T16:11:22Z"
+  },
+  {
+    "description": "̡͓̞ͅI̗̘̦͝n͇͇͙v̮̫ok̲̫̙͈i̖͙̭̹̠̞n̡̻̮̣̺g̲͈͙̭͙̬͎ ̰t͔̦h̞̲e̢̤ ͍̬̲͖f̴̘͕̣è͖ẹ̥̩l͖͔͚i͓͚̦͠n͖͍̗͓̳̮g͍ ̨o͚̪͡f̘̣̬ ̖̘͖̟͙̮c҉͔̫͖͓͇͖ͅh̵̤̣͚͔á̗̼͕ͅo̼̣̥s̱͈̺̖̦̻͢.̛̖̞̠̫̰",
+    "status": "inactive",
+    "type": "time-based",
+    "dateOfCompletion": null,
+    "points": 33,
+    "createdAt": "2023-03-13T13:47:14Z"
+  },
+  {
+    "description": "ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ",
+    "status": "complete",
+    "type": "exploration",
+    "dateOfCompletion": "2023-04-23T14:02:40Z",
+    "points": 50,
+    "createdAt": "2023-02-20T10:27:33Z"
+  },
+  {
+    "description": "␡",
+    "status": "inactive",
+    "type": "event",
+    "dateOfCompletion": null,
+    "points": 4,
+    "createdAt": "2023-03-31T19:48:28Z"
+  },
+  {
+    "description": "・(￣∀￣)・:*:",
+    "status": "complete",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 5,
+    "createdAt": "2023-08-25T16:34:19Z"
+  },
+  {
+    "description": "\"",
+    "status": "complete",
+    "type": "event",
+    "dateOfCompletion": null,
+    "points": 69,
+    "createdAt": "2022-12-20T02:36:53Z"
+  },
+  {
+    "description": "・(￣∀￣)・:*:",
+    "status": "inactive",
+    "type": "lifetime",
+    "dateOfCompletion": null,
+    "points": 27,
+    "createdAt": "2023-03-30T13:14:47Z"
+  },
+  {
+    "description": "../../../../../../../../../../../etc/passwd%00",
+    "status": "activated",
+    "type": "storyline",
+    "dateOfCompletion": null,
+    "points": 26,
+    "createdAt": "2023-02-01T22:33:26Z"
+  },
+  {
+    "description": "(ﾉಥ益ಥ）ﾉ﻿ ┻━┻",
+    "status": "inactive",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 24,
+    "createdAt": "2023-07-26T18:42:21Z"
+  },
+  {
+    "description": "0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟",
+    "status": "complete",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 62,
+    "createdAt": "2023-07-02T04:35:27Z"
+  },
+  {
+    "description": "Œ„´‰ˇÁ¨ˆØ∏”’",
+    "status": "activated",
+    "type": "social",
+    "dateOfCompletion": "2022-12-05T17:14:02Z",
+    "points": 81,
+    "createdAt": "2023-07-13T18:10:08Z"
+  },
+  {
+    "description": "(╯°□°）╯︵ ┻━┻)  ",
+    "status": "activated",
+    "type": "skill-based",
+    "dateOfCompletion": null,
+    "points": 42,
+    "createdAt": "2023-06-25T17:56:18Z"
+  },
+  {
+    "description": "パーティーへ行かないか",
+    "status": "inactive",
+    "type": "exploration",
+    "dateOfCompletion": "2022-11-17T01:58:14Z",
+    "points": 99,
+    "createdAt": "2023-08-09T16:02:26Z"
+  },
+  {
+    "description": "$1.00",
+    "status": "inactive",
+    "type": "lifetime",
+    "dateOfCompletion": "2023-08-19T10:33:15Z",
+    "points": 19,
+    "createdAt": "2023-01-02T11:05:13Z"
+  },
+  {
+    "description": "ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ",
+    "status": "inactive",
+    "type": "lifetime",
+    "dateOfCompletion": null,
+    "points": 44,
+    "createdAt": "2023-03-03T01:43:15Z"
+  },
+  {
+    "description": "🐵 🙈 🙉 🙊",
+    "status": "inactive",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 49,
+    "createdAt": "2023-08-21T14:52:02Z"
+  },
+  {
+    "description": "00˙Ɩ$-",
+    "status": "inactive",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 49,
+    "createdAt": "2023-07-06T19:48:34Z"
+  },
+  {
+    "description": "部落格",
+    "status": "complete",
+    "type": "time-based",
+    "dateOfCompletion": "2023-08-27T23:04:54Z",
+    "points": 62,
+    "createdAt": "2023-05-15T19:17:35Z"
+  },
+  {
+    "description": "NULL",
+    "status": "inactive",
+    "type": "skill-based",
+    "dateOfCompletion": null,
+    "points": 19,
+    "createdAt": "2023-07-10T12:00:03Z"
+  },
+  {
+    "description": "␢",
+    "status": "inactive",
+    "type": "event",
+    "dateOfCompletion": null,
+    "points": 10,
+    "createdAt": "2023-01-20T06:10:33Z"
+  },
+  {
+    "description": "''",
+    "status": "complete",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 86,
+    "createdAt": "2023-08-08T11:48:37Z"
+  },
+  {
+    "description": "\"\"",
+    "status": "activated",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 54,
+    "createdAt": "2023-02-14T01:40:35Z"
+  },
+  {
+    "description": "1.00",
+    "status": "complete",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 35,
+    "createdAt": "2022-12-15T19:14:42Z"
+  },
+  {
+    "description": "''",
+    "status": "inactive",
+    "type": "social",
+    "dateOfCompletion": "2022-12-14T05:37:42Z",
+    "points": 61,
+    "createdAt": "2022-12-16T08:57:36Z"
+  },
+  {
+    "description": "NULL",
+    "status": "activated",
+    "type": "event",
+    "dateOfCompletion": null,
+    "points": 69,
+    "createdAt": "2023-05-08T18:08:48Z"
+  },
+  {
+    "description": "ヽ༼ຈل͜ຈ༽ﾉ ヽ༼ຈل͜ຈ༽ﾉ ",
+    "status": "inactive",
+    "type": "social",
+    "dateOfCompletion": null,
+    "points": 94,
+    "createdAt": "2023-04-24T16:50:09Z"
+  },
+  {
+    "description": "̡͓̞ͅI̗̘̦͝n͇͇͙v̮̫ok̲̫̙͈i̖͙̭̹̠̞n̡̻̮̣̺g̲͈͙̭͙̬͎ ̰t͔̦h̞̲e̢̤ ͍̬̲͖f̴̘͕̣è͖ẹ̥̩l͖͔͚i͓͚̦͠n͖͍̗͓̳̮g͍ ̨o͚̪͡f̘̣̬ ̖̘͖̟͙̮c҉͔̫͖͓͇͖ͅh̵̤̣͚͔á̗̼͕ͅo̼̣̥s̱͈̺̖̦̻͢.̛̖̞̠̫̰",
+    "status": "activated",
+    "type": "progressive",
+    "dateOfCompletion": null,
+    "points": 37,
+    "createdAt": "2022-11-08T22:32:05Z"
+  },
+  {
+    "description": "'\"'",
+    "status": "activated",
+    "type": "progressive",
+    "dateOfCompletion": null,
+    "points": 11,
+    "createdAt": "2023-01-07T08:04:25Z"
+  },
+  {
+    "description": "ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ",
+    "status": "activated",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 90,
+    "createdAt": "2023-05-31T23:23:37Z"
+  },
+  {
+    "description": "(ﾉಥ益ಥ）ﾉ﻿ ┻━┻",
+    "status": "inactive",
+    "type": "exploration",
+    "dateOfCompletion": "2023-07-18T17:55:20Z",
+    "points": 87,
+    "createdAt": "2022-10-23T13:00:47Z"
+  },
+  {
+    "description": "˙ɐnbᴉlɐ ɐuƃɐɯ ǝɹolop ʇǝ ǝɹoqɐl ʇn ʇunpᴉpᴉɔuᴉ ɹodɯǝʇ poɯsnᴉǝ op pǝs 'ʇᴉlǝ ƃuᴉɔsᴉdᴉpɐ ɹnʇǝʇɔǝsuoɔ 'ʇǝɯɐ ʇᴉs ɹolop ɯnsdᴉ ɯǝɹo˥",
+    "status": "activated",
+    "type": "social",
+    "dateOfCompletion": null,
+    "points": 22,
+    "createdAt": "2023-09-05T15:47:18Z"
+  },
+  {
+    "description": "../../../../../../../../../../../etc/hosts",
+    "status": "activated",
+    "type": "exploration",
+    "dateOfCompletion": "2023-03-03T22:39:52Z",
+    "points": 51,
+    "createdAt": "2023-09-01T02:29:46Z"
+  },
+  {
+    "description": "❤️ 💔 💌 💕 💞 💓 💗 💖 💘 💝 💟 💜 💛 💚 💙",
+    "status": "inactive",
+    "type": "exploration",
+    "dateOfCompletion": "2022-11-10T04:01:59Z",
+    "points": 11,
+    "createdAt": "2022-11-11T09:58:09Z"
+  },
+  {
+    "description": "‫test‫",
+    "status": "complete",
+    "type": "progressive",
+    "dateOfCompletion": null,
+    "points": 42,
+    "createdAt": "2023-03-23T21:59:21Z"
+  },
+  {
+    "description": "-1E02",
+    "status": "inactive",
+    "type": "storyline",
+    "dateOfCompletion": null,
+    "points": 96,
+    "createdAt": "2023-08-14T15:53:38Z"
+  },
+  {
+    "description": "␡",
+    "status": "complete",
+    "type": "exploration",
+    "dateOfCompletion": null,
+    "points": 69,
+    "createdAt": "2023-02-08T12:26:12Z"
+  },
+  {
+    "description": "-1.00",
+    "status": "inactive",
+    "type": "time-based",
+    "dateOfCompletion": null,
+    "points": 3,
+    "createdAt": "2023-09-19T07:22:29Z"
+  },
+  {
+    "description": "<img src=x onerror=alert('hi') />",
+    "status": "complete",
+    "type": "hidden",
+    "dateOfCompletion": "2023-05-27T23:43:05Z",
+    "points": 68,
+    "createdAt": "2023-04-18T04:50:00Z"
+  },
+  {
+    "description": "NULL",
+    "status": "inactive",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 25,
+    "createdAt": "2023-07-08T02:05:36Z"
+  },
+  {
+    "description": "⁰⁴⁵₀₁₂",
+    "status": "complete",
+    "type": "event",
+    "dateOfCompletion": "2023-03-29T16:41:59Z",
+    "points": 99,
+    "createdAt": "2023-01-11T08:18:41Z"
+  },
+  {
+    "description": "⁰⁴⁵",
+    "status": "inactive",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 97,
+    "createdAt": "2022-11-29T04:49:07Z"
+  },
+  {
+    "description": ",./;'[]\\-=",
+    "status": "inactive",
+    "type": "time-based",
+    "dateOfCompletion": null,
+    "points": 1,
+    "createdAt": "2023-08-10T09:58:33Z"
+  },
+  {
+    "description": "・(￣∀￣)・:*:",
+    "status": "inactive",
+    "type": "exploration",
+    "dateOfCompletion": null,
+    "points": 65,
+    "createdAt": "2023-04-27T06:23:15Z"
+  },
+  {
+    "description": "0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟",
+    "status": "inactive",
+    "type": "lifetime",
+    "dateOfCompletion": "2023-08-28T15:29:01Z",
+    "points": 74,
+    "createdAt": "2023-09-07T15:32:26Z"
+  },
+  {
+    "description": "'",
+    "status": "activated",
+    "type": "social",
+    "dateOfCompletion": null,
+    "points": 22,
+    "createdAt": "2023-09-21T13:15:27Z"
+  },
+  {
+    "description": "田中さんにあげて下さい",
+    "status": "inactive",
+    "type": "event",
+    "dateOfCompletion": null,
+    "points": 10,
+    "createdAt": "2023-07-07T11:20:15Z"
+  },
+  {
+    "description": "'",
+    "status": "complete",
+    "type": "exploration",
+    "dateOfCompletion": null,
+    "points": 69,
+    "createdAt": "2022-12-18T06:27:34Z"
+  },
+  {
+    "description": "''",
+    "status": "activated",
+    "type": "collection",
+    "dateOfCompletion": "2022-10-12T20:43:02Z",
+    "points": 66,
+    "createdAt": "2023-06-27T07:56:26Z"
+  },
+  {
+    "description": "1'; DROP TABLE users--",
+    "status": "inactive",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 37,
+    "createdAt": "2023-07-07T09:45:22Z"
+  },
+  {
+    "description": "0️⃣ 1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 🔟",
+    "status": "complete",
+    "type": "hidden",
+    "dateOfCompletion": "2023-10-08T12:53:31Z",
+    "points": 58,
+    "createdAt": "2023-08-02T03:59:32Z"
+  },
+  {
+    "description": "̗̺͖̹̯͓Ṯ̤͍̥͇͈h̲́e͏͓̼̗̙̼̣͔ ͇̜̱̠͓͍ͅN͕͠e̗̱z̘̝̜̺͙p̤̺̹͍̯͚e̠̻̠͜r̨̤͍̺̖͔̖̖d̠̟̭̬̝͟i̦͖̩͓͔̤a̠̗̬͉̙n͚͜ ̻̞̰͚ͅh̵͉i̳̞v̢͇ḙ͎͟-҉̭̩̼͔m̤̭̫i͕͇̝̦n̗͙ḍ̟ ̯̲͕͞ǫ̟̯̰̲͙̻̝f ̪̰̰̗̖̭̘͘c̦͍̲̞͍̩̙ḥ͚a̮͎̟̙͜ơ̩̹͎s̤.̝̝ ҉Z̡̖̜͖̰̣͉̜a͖̰͙̬͡l̲̫̳͍̩g̡̟̼̱͚̞̬ͅo̗͜.̟",
+    "status": "inactive",
+    "type": "social",
+    "dateOfCompletion": null,
+    "points": 74,
+    "createdAt": "2023-03-23T19:29:46Z"
+  },
+  {
+    "description": "'",
+    "status": "complete",
+    "type": "exploration",
+    "dateOfCompletion": null,
+    "points": 73,
+    "createdAt": "2022-12-06T10:56:49Z"
+  },
+  {
+    "description": "<img src=x onerror=alert('hi') />",
+    "status": "complete",
+    "type": "social",
+    "dateOfCompletion": null,
+    "points": 80,
+    "createdAt": "2023-05-16T20:39:04Z"
+  },
+  {
+    "description": "　",
+    "status": "inactive",
+    "type": "lifetime",
+    "dateOfCompletion": null,
+    "points": 23,
+    "createdAt": "2023-03-31T01:14:31Z"
+  },
+  {
+    "description": "Œ„´‰ˇÁ¨ˆØ∏”’",
+    "status": "inactive",
+    "type": "lifetime",
+    "dateOfCompletion": "2023-07-18T19:01:35Z",
+    "points": 50,
+    "createdAt": "2023-02-05T19:45:06Z"
+  },
+  {
+    "description": "Ω≈ç√∫˜µ≤≥÷",
+    "status": "activated",
+    "type": "time-based",
+    "dateOfCompletion": null,
+    "points": 14,
+    "createdAt": "2023-09-15T11:19:29Z"
+  },
+  {
+    "description": "ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ",
+    "status": "complete",
+    "type": "storyline",
+    "dateOfCompletion": null,
+    "points": 9,
+    "createdAt": "2023-02-16T08:23:26Z"
+  },
+  {
+    "description": "₀₁₂",
+    "status": "complete",
+    "type": "progressive",
+    "dateOfCompletion": null,
+    "points": 63,
+    "createdAt": "2023-09-15T13:48:17Z"
+  },
+  {
+    "description": "\"\"",
+    "status": "inactive",
+    "type": "event",
+    "dateOfCompletion": "2023-03-07T02:43:17Z",
+    "points": 24,
+    "createdAt": "2022-11-09T04:21:51Z"
+  },
+  {
+    "description": null,
+    "status": "complete",
+    "type": "skill-based",
+    "dateOfCompletion": null,
+    "points": 50,
+    "createdAt": "2023-02-09T14:01:47Z"
+  },
+  {
+    "description": "1E02",
+    "status": "inactive",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 89,
+    "createdAt": "2023-04-06T10:04:10Z"
+  },
+  {
+    "description": "'",
+    "status": "complete",
+    "type": "event",
+    "dateOfCompletion": null,
+    "points": 49,
+    "createdAt": "2023-05-28T08:41:06Z"
+  },
+  {
+    "description": "｀ｨ(´∀｀∩",
+    "status": "inactive",
+    "type": "skill-based",
+    "dateOfCompletion": null,
+    "points": 1,
+    "createdAt": "2023-05-27T11:05:17Z"
+  },
+  {
+    "description": "❤️ 💔 💌 💕 💞 💓 💗 💖 💘 💝 💟 💜 💛 💚 💙",
+    "status": "inactive",
+    "type": "lifetime",
+    "dateOfCompletion": "2023-08-05T11:40:27Z",
+    "points": 51,
+    "createdAt": "2023-04-07T09:53:06Z"
+  },
+  {
+    "description": "\"''''\"'\"",
+    "status": "activated",
+    "type": "progressive",
+    "dateOfCompletion": null,
+    "points": 50,
+    "createdAt": "2023-03-05T16:55:31Z"
+  },
+  {
+    "description": "NULL",
+    "status": "inactive",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 60,
+    "createdAt": "2023-09-24T15:56:49Z"
+  },
+  {
+    "description": "ÅÍÎÏ˝ÓÔÒÚÆ☃",
+    "status": "activated",
+    "type": "lifetime",
+    "dateOfCompletion": null,
+    "points": 75,
+    "createdAt": "2022-11-04T16:31:40Z"
+  },
+  {
+    "description": "(ﾉಥ益ಥ）ﾉ﻿ ┻━┻",
+    "status": "activated",
+    "type": "exploration",
+    "dateOfCompletion": null,
+    "points": 54,
+    "createdAt": "2022-12-06T19:30:51Z"
+  },
+  {
+    "description": "!@#$%^&*()",
+    "status": "inactive",
+    "type": "social",
+    "dateOfCompletion": null,
+    "points": 42,
+    "createdAt": "2023-08-16T15:32:25Z"
+  },
+  {
+    "description": "__ﾛ(,_,*)",
+    "status": "inactive",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 18,
+    "createdAt": "2023-09-23T14:29:57Z"
+  },
+  {
+    "description": "1/2",
+    "status": "activated",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 26,
+    "createdAt": "2023-01-21T21:15:10Z"
+  },
+  {
+    "description": "1/2",
+    "status": "inactive",
+    "type": "collection",
+    "dateOfCompletion": "2022-11-18T06:54:27Z",
+    "points": 79,
+    "createdAt": "2023-03-28T05:07:59Z"
+  },
+  {
+    "description": ",。・:*:・゜’( ☻ ω ☻ )。・:*:・゜’",
+    "status": "activated",
+    "type": "collection",
+    "dateOfCompletion": "2023-04-18T21:41:27Z",
+    "points": 35,
+    "createdAt": "2023-05-31T19:46:46Z"
+  },
+  {
+    "description": "⁦test⁧",
+    "status": "inactive",
+    "type": "progressive",
+    "dateOfCompletion": null,
+    "points": 38,
+    "createdAt": "2023-05-30T08:32:51Z"
+  },
+  {
+    "description": "・(￣∀￣)・:*:",
+    "status": "activated",
+    "type": "hidden",
+    "dateOfCompletion": null,
+    "points": 57,
+    "createdAt": "2023-09-11T23:57:11Z"
+  },
+  {
+    "description": "1E2",
+    "status": "complete",
+    "type": "lifetime",
+    "dateOfCompletion": null,
+    "points": 13,
+    "createdAt": "2023-09-19T21:58:15Z"
+  },
+  {
+    "description": "`⁄€‹›ﬁﬂ‡°·‚—±",
+    "status": "activated",
+    "type": "progressive",
+    "dateOfCompletion": null,
+    "points": 59,
+    "createdAt": "2023-09-25T18:26:02Z"
+  },
+  {
+    "description": "() { _; } >_[$($())] { touch /tmp/blns.shellshock2.fail; }",
+    "status": "complete",
+    "type": "collection",
+    "dateOfCompletion": null,
+    "points": 49,
+    "createdAt": "2023-07-12T13:56:42Z"
+  },
+  {
+    "description": "ﾟ･✿ヾ╲(｡◕‿◕｡)╱✿･ﾟ",
+    "status": "complete",
+    "type": "lifetime",
+    "dateOfCompletion": null,
+    "points": 52,
+    "createdAt": "2022-10-14T01:07:36Z"
+  },
+  {
+    "description": "<>?:\"{}|_+",
+    "status": "activated",
+    "type": "social",
+    "dateOfCompletion": "2022-12-12T09:53:58Z",
+    "points": 11,
+    "createdAt": "2023-08-06T03:33:54Z"
+  }
+]
